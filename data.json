@@ -11,16 +11,7 @@
       "id": "pag",
       "nome": "Pag",
       "paese": "Croazia",
-      "locali": [
-        {
-          "id": "loc-reqmpq",
-          "nome": "Aaa",
-          "indirizzo": "",
-          "note": "",
-          "materiali": [],
-          "piani": []
-        }
-      ]
+      "locali": []
     },
     {
       "id": "zante",
