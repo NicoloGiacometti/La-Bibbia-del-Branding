@@ -1,0 +1,23 @@
+{
+  "aggiornato": "2026-08-18",
+  "mete": [
+    {
+      "id": "corfu",
+      "nome": "Corfù",
+      "paese": "Grecia",
+      "locali": []
+    },
+    {
+      "id": "pag",
+      "nome": "Pag",
+      "paese": "Croazia",
+      "locali": []
+    },
+    {
+      "id": "zante",
+      "nome": "Zante",
+      "paese": "Grecia",
+      "locali": []
+    }
+  ]
+}
