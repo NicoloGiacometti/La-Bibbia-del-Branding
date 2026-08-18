@@ -31,8 +31,8 @@ Sito interno del team branding Lemonade Partytrip: dove e come montare banner, v
 Servono **entrambi**: la password del team e un token GitHub *fine-grained* con permesso `Contents: Read and write` su questo repo, senza scadenza. Il token si incolla una volta e resta salvato sul dispositivo. Quando cambia il responsabile branding, si revoca il token e se ne genera uno nuovo.
 
 ## File
-- `index.html` — il sito, unico file con tutto incluso. Per aggiornare grafica o funzioni si sostituisce solo questo.
-- `data.json` — tutti i dati. Non sostituirlo mai a mano: lo gestisce il pannello.
-- `planimetrie/`, `foto/` — immagini caricate dall'area gestione.
-- `manifest.webmanifest`, `icon-180.png`, `icon-512.png` — icona e modalità app su iPhone.
-- `.nojekyll` — necessario a GitHub Pages per servire i file così come sono.
+- `index.html` - il sito, unico file con tutto incluso. Per aggiornare grafica o funzioni si sostituisce solo questo.
+- `data.json` - tutti i dati. Non sostituirlo mai a mano: lo gestisce il pannello.
+- `planimetrie/`, `foto/` - immagini caricate dall'area gestione.
+- `manifest.webmanifest`, `icon-180.png`, `icon-512.png` - icona e modalità app su iPhone.
+- `.nojekyll` - necessario a GitHub Pages per servire i file così come sono.
