@@ -16,3 +16,7 @@ Sito interno del team branding Lemonade Partytrip.
 - `index.html` - il sito (unico file, tutto incluso). Per aggiornare la grafica si sostituisce solo questo.
 - `data.json` - i dati. Non sostituirlo mai a mano dopo la prima volta.
 - `planimetrie/`, `foto/` - immagini caricate dal pannello.
+
+## Aggiungere alla home dell'iPhone
+Safari -> Condividi -> "Aggiungi a Home". L'icona apre il sito a schermo pieno, senza barre del browser.
+Serve che siano nel repo anche `manifest.webmanifest`, `icon-180.png` e `icon-512.png`.
