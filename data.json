@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-18",
+  "aggiornato": "2026-08-19",
   "mete": [
     {
       "id": "corfu",
@@ -11,7 +11,51 @@
       "id": "pag",
       "nome": "Pag",
       "paese": "Croazia",
-      "locali": []
+      "locali": [
+        {
+          "id": "loc-i7obsa",
+          "nome": "Cocomo",
+          "indirizzo": "Via Paolo Bentivoglio",
+          "note": "",
+          "materiali": [
+            {
+              "id": "mat-q9ineg",
+              "qta": "1",
+              "tipo": "Banner"
+            },
+            {
+              "id": "mat-302wk2",
+              "qta": "3",
+              "tipo": "Tondo"
+            },
+            {
+              "id": "mat-rq92h9",
+              "qta": "1",
+              "tipo": "Vela"
+            }
+          ],
+          "piani": [
+            {
+              "id": "piano-jd9h8a",
+              "nome": "Piano Terra",
+              "img": "",
+              "pins": [
+                {
+                  "id": "pin-ceoe7h",
+                  "x": 21.7,
+                  "y": 73.5,
+                  "tipo": "Banner",
+                  "qta": "1",
+                  "priorita": "Indispensabile",
+                  "fissaggio": "",
+                  "note": "",
+                  "foto": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "zante",
